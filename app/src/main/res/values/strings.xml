@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MTC</string>
+
+    <!-- 通用 -->
+    <string name="loading">加载中…</string>
+    <string name="error">错误</string>
+    <string name="retry">重试</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="search">搜索</string>
+
+    <!-- 认证 -->
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="logout">退出登录</string>
+    <string name="email">邮箱</string>
+    <string name="password">密码</string>
+    <string name="username">用户名</string>
+    <string name="login_success">登录成功</string>
+    <string name="register_success">注册成功</string>
+    <string name="login_failed">登录失败</string>
+    <string name="register_failed">注册失败</string>
+
+    <!-- 档案 -->
+    <string name="archives">档案</string>
+    <string name="create_archive">创建档案</string>
+    <string name="archive_name">档案名称</string>
+    <string name="archive_description">档案描述</string>
+    <string name="archive_type">档案类型</string>
+    <string name="no_archives">暂无档案</string>
+
+    <!-- 成员 -->
+    <string name="members">成员</string>
+    <string name="add_member">添加成员</string>
+    <string name="member_name">成员姓名</string>
+    <string name="relationship">关系</string>
+    <string name="birth_year">出生年份</string>
+    <string name="death_year">去世年份</string>
+    <string name="bio">简介</string>
+    <string name="is_alive">在世</string>
+    <string name="no_members">暂无成员</string>
+
+    <!-- 记忆 -->
+    <string name="memories">记忆</string>
+    <string name="add_memory">添加记忆</string>
+    <string name="memory_title">记忆标题</string>
+    <string name="memory_content">记忆内容</string>
+    <string name="timestamp">时间</string>
+    <string name="location">地点</string>
+    <string name="emotion_label">情感标签</string>
+    <string name="no_memories">暂无记忆</string>
+
+    <!-- AI 对话 -->
+    <string name="dialogue">对话</string>
+    <string name="chat_with">与 %s 对话</string>
+    <string name="type_message">输入消息…</string>
+    <string name="send">发送</string>
+    <string name="clear_history">清除历史</string>
+
+    <!-- 个人中心 -->
+    <string name="profile">个人中心</string>
+    <string name="settings">设置</string>
+</resources>
